@@ -1,0 +1,22 @@
+details:
+  first_name: Vladislav
+  last_name: Medyankin
+  title: Student
+profile: |
+  Student at TUSUR University majoring in Software Development at the Faculty of Computing Systems.
+contact:
+  - text: medyankin03@mail.ru
+    url: "mailto:medyankin03@mail.ru"
+    icon: email
+  - text: GitHub
+    url: "https://github.com/sdnssblue"
+    icon: github
+technical:
+  - category: Languages
+    items: python,C#
+  - category: Databases
+    items: MS SQL Server
+  - category: Containers & Orchestration
+    items: docker,docker-compose
+  - category: CI/CD
+    items: GitHub Actions

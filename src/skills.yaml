@@ -1,0 +1,43 @@
+categories:
+  - &lang
+    Languages
+  - &db
+    Databases
+  - &containers
+    Containers & Orchestration
+  - &cicd
+    CI/CD
+
+skills:
+- name: python
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: MS SQL Server
+  level: junior
+  category: *db
+  labels:
+    - databases
+- name: C#
+  level: junior
+  category: *lang
+  labels:
+    - programming
+- name: docker
+  level: junior
+  labels:
+    - tools
+    - technology
+  category: *containers
+- name: docker-compose
+  level: junior
+  category: *containers
+  labels:
+    - tools
+- name: GitHub Actions
+  level: junior
+  category: *cicd
+  labels:
+    - tools
+                                                                                                                
